@@ -6,6 +6,12 @@ Wong Kirito adalah *Single Page Application* (SPA) interaktif yang dibangun meng
 
 Proyek ini sangat menitikberatkan pada manipulasi DOM tanpa memuat ulang halaman (*page reload*), menggunakan teknik AJAX *polling* untuk menyajikan harga paling *update* dari proxy **Binance API**. Tampilannya dirancang dengan tata letak *Bento Box UI* premium yang dikemas dengan kombinasi warna tajam dan *layout* yang bersih.
 
+### 📸 Tampilan Aplikasi
+
+| Keadaan Siap (Idle) | Keadaan Memantau (Active) |
+| :---: | :---: |
+| ![Idle State](./screenshots/idle.png) | ![Active State](./screenshots/active.png) |
+
 ---
 
 ## ✨ Fitur Unggulan
